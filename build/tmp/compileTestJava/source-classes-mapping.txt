@@ -1,0 +1,32 @@
+com/portmis/portmis/repository/CategoryRepositoryTest.java
+ com.portmis.portmis.repository.CategoryRepositoryTest
+com/portmis/portmis/controller/GetControllerTest.java
+ com.portmis.portmis.controller.GetControllerTest
+com/portmis/portmis/sampledata/ItemSample.java
+ com.portmis.portmis.sampledata.ItemSample
+com/portmis/portmis/repository/OrderGroupRepositoryTest.java
+ com.portmis.portmis.repository.OrderGroupRepositoryTest
+com/portmis/portmis/sampledata/OrderDetailSample.java
+ com.portmis.portmis.sampledata.OrderDetailSample
+com/portmis/portmis/repository/PartnerRepositoryTest.java
+ com.portmis.portmis.repository.PartnerRepositoryTest
+com/portmis/portmis/repository/OrderDetailRepositoryTest.java
+ com.portmis.portmis.repository.OrderDetailRepositoryTest
+com/portmis/portmis/repository/UserRepositoryTest.java
+ com.portmis.portmis.repository.UserRepositoryTest
+com/portmis/portmis/sampledata/PartnerSample.java
+ com.portmis.portmis.sampledata.PartnerSample
+com/portmis/portmis/repository/ItemRepositoryTest.java
+ com.portmis.portmis.repository.ItemRepositoryTest
+com/portmis/portmis/sampledata/CategorySample.java
+ com.portmis.portmis.sampledata.CategorySample
+com/portmis/portmis/sampledata/UserSample.java
+ com.portmis.portmis.sampledata.UserSample
+com/portmis/portmis/JavaApplicationTests.java
+ com.portmis.portmis.JavaApplicationTests
+com/portmis/portmis/repository/AdminUserRepositoryTest.java
+ com.portmis.portmis.repository.AdminUserRepositoryTest
+com/portmis/portmis/controller/PostControllerTest.java
+ com.portmis.portmis.controller.PostControllerTest
+com/portmis/portmis/controller/api/UserApiControllerUnitTest.java
+ com.portmis.portmis.controller.api.UserApiControllerUnitTest
